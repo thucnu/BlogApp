@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-quill": "^2.0.0",
+    "react-router-dom": "^6.14.2",
+    "sass": "^1.64.2"
+  }
+}
